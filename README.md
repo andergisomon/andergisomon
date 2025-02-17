@@ -1,10 +1,10 @@
 ## Kopisanangan 👋😁, yoho i Ander
 ### Hi, 👋 I'm Ander. 
 
-I'm in my second year of my Electrical and Electronics Engineering undergrad at Universiti Teknologi PETRONAS. Feel free to look around!
+I'm in my third year of my Electrical and Electronics Engineering undergrad at Universiti Teknologi PETRONAS. Feel free to look around!
 
 - 🌾 Indigenous language representation is something I'm very passionate about, and I believe NLP plays a significant role.
-- 🌄 My interests include DSP and RISC-V.
+- 🌄 My interests include deep learning (NLP especially), DSP and RISC-V.
 - ⚛️ I'm slightly optimistic about quantum computing. The frameworks I have experience with are Qiskit and Pennylane.
 
 <details>
