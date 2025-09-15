@@ -1,7 +1,7 @@
 ## Kopisanangan 👋😁, yoho i Ander
 ### Hi, 👋 I'm Ander. 
 
-I'm entering the final year of my Electrical and Electronics Engineering undergrad at Universiti Teknologi PETRONAS. Feel free to look around!
+I'm in my final year of my Electrical and Electronics Engineering undergrad at Universiti Teknologi PETRONAS. Feel free to look around!
 
 - 🌾 Indigenous language representation is something I'm very passionate about, and I believe NLP plays a significant role.
 - 🌄 My interests include embedded systems, deep learning (NLP especially), DSP and RISC-V.
