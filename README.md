@@ -1,32 +1,18 @@
 ## Kopisanangan 👋😁, yoho i Ander
 ### Hi, 👋 I'm Ander. 
 
-I'm in my final year of my Electrical and Electronics Engineering undergrad at Universiti Teknologi PETRONAS. Feel free to look around!
+Feel free to look around!
 
+- 🌄 I develop embedded systems for fun and for a living.
+- 📚 I did my EE undergrad at Universiti Teknologi PETRONAS.
 - 🌾 Indigenous language representation is something I'm very passionate about, and I believe NLP plays a significant role.
-- 🌄 My interests include embedded systems, deep learning (NLP especially), DSP and RISC-V.
-- ⚛️ Used to be slighlty optimistic about quantum computing, I've now hopped onto the industrial automation hype train.
-
-<details>
-    <summary><strong>More about me 🤗</strong></summary>
-
-  - 🙋‍♂️ I'm from Sabah.
-  - 😄 I speak (and sing in) Kadazandusun, Malay, and English.
-  - 🥚 I was born on the last day of 2003.
-
-</details>
 
 ### Languages and Tools
 <p align="left">
-    <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="riscv" width="100" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="py" width="40" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="py" height="40"/>
     <img src="https://www.rustacean.net/assets/cuddlyferris.svg" alt="rustlang" width="50" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Zig-logomark-2024.svg" alt="ziglang" width="50" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" alt="c" width="47" height="47"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/>
-    <img src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" alt="pennylane" width="40" height="40"/>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="40"/>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/C1stEdition.svg/250px-C1stEdition.svg.png" alt="c" height="32"/>
 </p>
 
 ### Other places you can find me
